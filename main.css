@@ -1,0 +1,48 @@
+body{
+	background-color: #DCDCDC;
+}
+img {
+	width: 100%;
+}
+.post {
+	background-color: white;
+	width: 600px;
+	margin: 0 auto;
+}
+h1{
+	font-size: 15px;
+}
+header {
+	padding: 15px;
+	float: left;
+	display: inline-block;
+}
+footer {
+	padding: 15px;
+}
+
+.heart {
+	width: 25px;
+	display: inline-block;
+}
+.comment {
+	width: 512px;
+	display: inline-block;
+}
+.dots{
+	width: 25px;
+	display: inline-block;
+}
+.profile-pic{
+	width: 40px;
+	display: inline-block;
+}
+.username{
+	width: 500px;
+	display: inline-block;
+}
+.time{
+	width: 30px;
+	display: inline-block;
+	float: right;
+}
